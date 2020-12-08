@@ -333,5 +333,10 @@ img{
 }
 .contact__button{
     display: block;
-    
+    border: none;
+    outline: none;
+    font-size: var(--normal-font-size);
+    cursor: pointer;
+    margin-left: auto;
+
 }
