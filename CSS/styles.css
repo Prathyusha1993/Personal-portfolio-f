@@ -300,3 +300,7 @@ img{
 .skills__img{
     border-radius: .5rem;
 }
+/* work */
+.work{
+    text-align: center;
+}
